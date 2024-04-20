@@ -1,0 +1,14 @@
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\bin\Debug\net8.0\Lambdas1.exe
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\bin\Debug\net8.0\Lambdas1.deps.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\bin\Debug\net8.0\Lambdas1.runtimeconfig.json
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\bin\Debug\net8.0\Lambdas1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\bin\Debug\net8.0\Lambdas1.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\refint\Lambdas1.dll
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.pdb
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\Lambdas1.genruntimeconfig.cache
+C:\Users\sebas\Desktop\Gokstad Akademiet\LINQ\Lambdas\Lambdas1\obj\Debug\net8.0\ref\Lambdas1.dll
